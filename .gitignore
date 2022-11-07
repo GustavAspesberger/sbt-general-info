@@ -1,0 +1,15 @@
+logs
+target
+.DS_Store
+public/.DS_Store
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+/conf/local.conf
+core/conf/local.conf
+/.g8
+/.bsp
+service-information.json
